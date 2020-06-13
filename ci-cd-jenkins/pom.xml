@@ -26,13 +26,12 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-						
+						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
 						<username>heena__nawani</username>
 						<password>bHANUPAWAN@22</password>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						
 						<environment>Sandbox</environment>
 						<applicationName>ci-cd-jenkins</applicationName>
 											

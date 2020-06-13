@@ -26,16 +26,16 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-						<uri>https://anypoint.mulesoft.com</uri>
+						
 						<muleVersion>4.2.2</muleVersion>
 						<username>heena__nawani</username>
 						<password>bHANUPAWAN@22</password>
 						<workers>1</workers>
-						<workerType>micro</workerType>
-						<region>us-west-1</region>
+						<workerType>Micro</workerType>
+						
 						<environment>Sandbox</environment>
 						<applicationName>ci-cd-jenkins</applicationName>
-						<objectStoreV2>true</objectStoreV2>						
+											
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>

@@ -27,7 +27,7 @@
 				<configuration>
 				<cloudHubDeployment>
 						
-						<muleVersion>4.2.2</muleVersion>
+						<muleVersion>4.3.0</muleVersion>
 						<username>heena__nawani</username>
 						<password>bHANUPAWAN@22</password>
 						<workers>1</workers>
